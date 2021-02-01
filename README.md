@@ -15,7 +15,8 @@
 - [Kaillera-Game-Server](https://github.com/yaowenxu/Projects/tree/master/Kaillera-Game-Server)
 - [WinKawaks](https://www.winkawaks.org/index.htm)
 - [Kawaks](http://kawaks.retrogames.com/)
-- [Kawaks 项目文件整理](https://www.cnblogs.com/xuyaowen/p/Kawaks-project.html)
+- [Kawaks Project document arrangement](https://www.cnblogs.com/xuyaowen/p/Kawaks-project.html)
+- [Game ROMs Collection](https://github.com/Game-Emulators/Kawaks-ROMs)
 
 ### WinKawaks structure
 ```
