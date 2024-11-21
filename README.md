@@ -12,7 +12,6 @@
 - redump36.zip A tool to convert old NeoGeo dumps (N10234489.078) to Kawaks compliant dumps (game_p1.rom)
 
 ### Links 
-- [Kaillera-Game-Server](https://github.com/yaowenxu/Projects/tree/master/Kaillera-Game-Server)
 - [WinKawaks](https://www.winkawaks.org/index.htm)
 - [Kawaks](http://kawaks.retrogames.com/)
 - [Kawaks Project document arrangement](https://www.cnblogs.com/xuyaowen/p/Kawaks-project.html)
